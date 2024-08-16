@@ -1,0 +1,294 @@
+<details><summary>System Status Report</summary>
+
+```
+### WordPress Environment ###
+
+WordPress address (URL): [Redacted]
+Site address (URL): [Redacted]
+WC Version: 9.1.2
+Legacy REST API Package Version: The Legacy REST API plugin is not installed on this site.
+Action Scheduler Version: ✔ 3.8.1
+Log Directory Writable: ✔
+WP Version: ❌ 6.5.5 - There is a newer version of WordPress available (6.6.1)
+WP Multisite: –
+WP Memory Limit: 256 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_US
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 8.0.30.2
+PHP Post Max Size: 100 MB
+PHP Time Limit: 300
+PHP Max Input Vars: 10000
+cURL Version: 8.5.0
+OpenSSL/3.1.6
+
+SUHOSIN Installed: –
+MySQL Version: 8.0.33-25
+Max Upload Size: 100 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+[REDACTED]
+
+### Post Type Counts ###
+
+attachment: 1087
+bsf_custom_fonts: 1
+ckit_size_guide: 1
+custom_css: 3
+customize_changeset: 130
+doko-bundles: 1
+ds_pickup_location: 2
+elementor_font: 5
+elementor_library: 18
+elementor_snippet: 4
+groovy_menu_preset: 1
+hf_template: 40
+mc4wp-form: 1
+nav_menu_item: 62
+page: 21
+pewc_field: 15
+pewc_group: 8
+post: 6
+product: 44
+revision: 1332
+shop_bogof_rule: 1
+shop_coupon: 1
+shop_order: 538
+store: 2
+wafs: 1
+wc_afrsm: 1
+wc_product_wizard: 1
+woo_product_builder: 1
+wp_block: 1
+wp_global_styles: 2
+wpc_product_table: 1
+wpcf7_contact_form: 6
+wpforms: 3
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (33) ###
+
+AffiliateWP: by AffiliateWP – 2.25.2
+AffiliateWP - Affiliate Area Tabs: by AffiliateWP – 1.4.1
+AffiliateWP - Affiliate Info: by Sandhills Development
+LLC – 1.2
+
+WP AutoTerms: by WP AutoTerms – 2.5.1
+Classic Editor: by WordPress Contributors – 1.6.4
+Classic Widgets: by WordPress Contributors – 0.3
+CommerceGurus CommerceKit: by CommerceGurus – 2.3.3
+Disable Emojis (GDPR friendly): by Ryan Hellyer – 1.7.6
+Easy Product Bundles Pro for WooCommerce: by Product Bundles Team – 4.9.1
+Easy Product Bundles for WooCommerce: by Product Bundles Team – 4.9.1
+Elementor Pro: by Elementor.com – 3.23.0
+Elementor: by Elementor.com – 3.23.1
+HieCOR Payment Gateway Plugin: by HieCOR – 1.4.5
+Kirki Customizer Framework: by Themeum – 5.1.0
+Mailchimp for WooCommerce: by Mailchimp – 4.2.1
+MC4WP: Mailchimp for WordPress: by ibericode – 4.9.15
+PDF Embedder: by PDF Embedder – 4.8.2
+Permalink Manager for WooCommerce: by BeRocket – 1.0.8.2
+Redirection: by John Godley – 5.5.0
+Slider Revolution: by ThemePunch – 6.7.7
+WooCommerce No Shipping Message: by dangoodman – 2.1.10
+Product Subtitle For WooCommerce: by Varun Sridharan – 4.6.2
+WPC Frequently Bought Together for WooCommerce: by WPClever – 7.1.3
+WPC Product Bundles for WooCommerce (Premium): by WPClever – 8.1.0
+WPC Smart Quick View for WooCommerce (Premium): by WPClever – 4.1.0
+WooCommerce Buy One Get One Free: by Oscar Gare – 5.3.1 (update to version 5.3.2 is available)
+Google Analytics for WooCommerce: by WooCommerce – 2.1.6
+WooCommerce UPS Shipping: by WooCommerce – 3.6.4 (update to version 3.7.0 is available)
+WooCommerce Table Rate Shipping: by WooCommerce – 3.2.2 (update to version 3.3.0 is available)
+WooCommerce: by Automattic – 9.1.2 (update to version 9.1.4 is available)
+Yoast SEO: by Team Yoast – 23.2
+WP Mail SMTP: by WP Mail SMTP – 4.1.0
+WPForms Lite: by WPForms – 1.9.0.2
+
+### Inactive Plugins (6) ###
+
+Advanced Local Pickup PRO: by zorem – 1.7.3.1
+Google Listings and Ads: by WooCommerce – 2.7.6
+Local Pickup for WooCommerce (Premium): by theDotstore – 1.1.0
+Popup Maker: by Popup Maker – 1.19.0
+WC Pickup Store: by Keylor Mendoza A. – 1.8.6
+WooCommerce Shipping & Tax: by WooCommerce – 2.6.2 (update to version 2.7.0 is available)
+
+### Dropin Plugins () ###
+
+db-error.php: db-error.php
+object-cache.php: object-cache.php
+
+### Must Use Plugins (2) ###
+
+Object Cache Pro (MU): by Rhubarb Group – 1.21.2
+System Plugin: by  – 4.136.0
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: USD ($)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: bopobb (bopobb)
+bundle (bundle)
+bundle_product (bundle_product)
+bundled (bundled)
+composite (composite)
+easy_product_bundle (easy_product_bundle)
+external (external)
+grouped (grouped)
+mix and match (mix-and-match)
+simple (simple)
+subscription (subscription)
+variable (variable)
+variable subscription (variable-subscription)
+wdm_bundle_product (wdm_bundle_product)
+wooextmm (wooextmm)
+woosb (woosb)
+yith_bundle (yith_bundle)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+Enforce Approved Product Download Directories: ✔
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: –
+
+### Logging ###
+
+Enabled: ✔
+Handler: Automattic\WooCommerce\Internal\Admin\Logging\LogHandlerFileV2
+Retention period: 7 days
+Level threshold: –
+Log directory size: 2 MB
+
+### WC Pages ###
+
+Shop base: #8 - /shop/
+Cart: #11929 - /cart/ -  Contains the [woocommerce_cart] shortcode
+Checkout: #11931 - /checkout/ -  Contains the [woocommerce_checkout] shortcode
+My account: #11 - /my-account/
+Terms and conditions: #11909 - /terms-of-service/
+
+### Theme ###
+
+Name: Shoptimizer Child Theme
+Version: 1.2.2
+Author URL: 
+Child Theme: ✔
+Parent Theme Name: Shoptimizer
+Parent Theme Version: 2.7.9
+Parent Theme Author URL: https://www.commercegurus.com/
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### Buy One Get One Free ###
+
+Database version: 5.3.1
+Legacy options: no
+Disable coupons: no
+Custom attributes: no
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customize-store
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-custom-fields
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+launch-your-store
+
+Disabled Features: experimental-blocks
+minified-js
+pattern-toolkit-full-composability
+product-pre-publish-modal
+printful
+settings
+async-product-editor-category-field
+product-editor-template-system
+
+Daily Cron: ✔ Next scheduled: 2024-08-17 09:57:42 -07:00
+Options: ✔
+Notes: 78
+Onboarding: completed
+
+### Action Scheduler ###
+
+Canceled: 9
+Oldest: 2024-08-08 10:34:07 -0700
+Newest: 2024-08-13 21:56:00 -0700
+
+Complete: 4,516
+Oldest: 2024-07-16 14:23:55 -0700
+Newest: 2024-08-16 11:46:53 -0700
+
+Failed: 66
+Oldest: 2024-05-20 10:08:11 -0700
+Newest: 2024-08-14 16:44:34 -0700
+
+Pending: 12
+Oldest: 2024-08-16 12:01:53 -0700
+Newest: 2024-08-28 17:02:13 -0700
+
+
+### Status report information ###
+
+Generated at: 2024-08-16 11:48:10 -07:00
+```
+</details>
